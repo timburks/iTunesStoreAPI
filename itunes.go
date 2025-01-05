@@ -53,8 +53,13 @@ var Genres = []Genre{
 	{6017, "Education"},
 	{6018, "Books"},
 	{6020, "Medical"},
-	{6021, "Newsstand"},
+	{6021, "Magazines & Newspapers"},
 	{6022, "Catalogs"},
+	{6023, "Food & Drink"},
+	{6024, "Shopping"},
+	{6025, "Stickers"},
+	{6026, "Developer Tools"},
+	{6027, "Graphics & Design"},
 }
 
 type Connection struct {
